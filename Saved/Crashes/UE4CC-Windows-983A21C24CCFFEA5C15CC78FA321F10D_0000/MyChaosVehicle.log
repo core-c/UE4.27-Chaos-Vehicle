@@ -1,0 +1,1433 @@
+﻿Log file open, 02/25/23 00:15:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyChaosVehicle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.223391
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 3090
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Engine.ini]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Engine.ini]
+[2023.02.24-23.15.27:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Engine.ini]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Engine.ini]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.24-23.15.27:289][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.24-23.15.27:290][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.24-23.15.27:290][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.24-23.15.27:290][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.24-23.15.27:290][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.24-23.15.27:290][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.24-23.15.27:290][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.24-23.15.27:290][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.24-23.15.27:290][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.02.24-23.15.27:290][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Engine.ini]
+[2023.02.24-23.15.27:290][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Engine.ini]
+[2023.02.24-23.15.27:316][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.24-23.15.27:316][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.24-23.15.27:317][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.24-23.15.27:317][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.24-23.15.27:317][  0]LogHAL: Display: Platform has ~ 32 GB [34293440512 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.24-23.15.27:317][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.24-23.15.27:317][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.24-23.15.27:317][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Scalability.ini]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.24-23.15.27:318][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.24-23.15.27:319][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.24-23.15.27:319][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.24-23.15.27:319][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.02.24-23.15.27:319][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Engine.ini]
+[2023.02.24-23.15.27:319][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [X:/Unreal_4_projects/MyChaosVehicle/Saved/Config/Windows/Editor.ini]
+[2023.02.24-23.15.27:319][  0]LogInit: Computer: CPC
+[2023.02.24-23.15.27:319][  0]LogInit: User: c
+[2023.02.24-23.15.27:319][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.02.24-23.15.27:319][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.24-23.15.27:319][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.02.24-23.15.27:319][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.24-23.15.27:319][  0]LogMemory: Process Physical Memory: 148.78 MB used, 148.78 MB peak
+[2023.02.24-23.15.27:319][  0]LogMemory: Process Virtual Memory: 133.32 MB used, 133.32 MB peak
+[2023.02.24-23.15.27:319][  0]LogMemory: Physical Memory: 11493.98 MB used,  21210.79 MB free, 32704.77 MB total
+[2023.02.24-23.15.27:319][  0]LogMemory: Virtual Memory: 134197712.00 MB used,  20017.33 MB free, 134217728.00 MB total
+[2023.02.24-23.15.27:324][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.24-23.15.27:361][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.02.24-23.15.27:362][  0]LogInit: Using OS detected language (en-GB).
+[2023.02.24-23.15.27:362][  0]LogInit: Using OS detected locale (en-NL).
+[2023.02.24-23.15.27:364][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2023.02.24-23.15.27:513][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.24-23.15.27:525][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.24-23.15.27:534][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.24-23.15.27:534][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.24-23.15.27:634][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.02.24-23.15.27:637][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.24-23.15.27:637][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.24-23.15.27:637][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.24-23.15.27:637][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.24-23.15.27:732][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3090' (Feature Level 11_0)
+[2023.02.24-23.15.27:732][  0]LogD3D11RHI:       24340/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3090
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI:     DeviceId    : 2204
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI:     SubSysId    : 38841462
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI:     DedicatedVideoMemory : 25522339840 bytes
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI:     SharedSystemMemory : 17146720256 bytes
+[2023.02.24-23.15.27:734][  0]LogD3D11RHI:     AdapterLuid : 0 45476
+[2023.02.24-23.15.27:738][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.24-23.15.27:738][  0]LogD3D11RHI:     GPU DeviceId: 0x2204 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.24-23.15.27:738][  0]LogWindows: EnumDisplayDevices:
+[2023.02.24-23.15.27:738][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3090' (P:1 D:1)
+[2023.02.24-23.15.27:738][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3090' (P:0 D:0)
+[2023.02.24-23.15.27:738][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3090' (P:0 D:0)
+[2023.02.24-23.15.27:738][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3090' (P:0 D:0)
+[2023.02.24-23.15.27:738][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.02.24-23.15.27:738][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3090
+[2023.02.24-23.15.27:738][  0]LogD3D11RHI:   Driver Version: 528.49 (internal:31.0.15.2849, unified:528.49)
+[2023.02.24-23.15.27:738][  0]LogD3D11RHI:      Driver Date: 2-2-2023
+[2023.02.24-23.15.27:738][  0]LogRHI: Texture pool is 17038 MB (70% of 24340 MB)
+[2023.02.24-23.15.27:738][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.02.24-23.15.27:738][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3090
+[2023.02.24-23.15.27:738][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.24-23.15.27:739][  0]LogD3D11RHI:     DeviceId    : 2204
+[2023.02.24-23.15.27:739][  0]LogD3D11RHI:     SubSysId    : 38841462
+[2023.02.24-23.15.27:739][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.24-23.15.27:739][  0]LogD3D11RHI:     DedicatedVideoMemory : 25522339840 bytes
+[2023.02.24-23.15.27:739][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.24-23.15.27:739][  0]LogD3D11RHI:     SharedSystemMemory : 17146720256 bytes
+[2023.02.24-23.15.27:739][  0]LogD3D11RHI:     AdapterLuid : 0 45476
+[2023.02.24-23.15.27:785][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.24-23.15.27:785][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.24-23.15.27:785][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.24-23.15.27:786][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2023.02.24-23.15.27:804][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.02.24-23.15.27:837][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.02.24-23.15.28:081][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.24-23.15.28:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.24-23.15.28:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.24-23.15.28:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.24-23.15.28:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.24-23.15.28:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.24-23.15.28:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.24-23.15.28:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.24-23.15.28:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.24-23.15.28:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.24-23.15.28:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.24-23.15.28:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.24-23.15.28:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.24-23.15.28:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.24-23.15.28:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.24-23.15.28:132][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.24-23.15.28:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.24-23.15.28:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.24-23.15.28:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.24-23.15.28:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.24-23.15.28:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.24-23.15.28:173][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.24-23.15.28:180][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.02.24-23.15.28:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.02.24-23.15.28:187][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.02.24-23.15.28:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.02.24-23.15.28:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.24-23.15.28:199][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.24-23.15.28:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.24-23.15.28:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.24-23.15.28:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.24-23.15.28:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.24-23.15.28:218][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.24-23.15.28:226][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.24-23.15.28:251][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.02.24-23.15.28:277][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.24-23.15.28:277][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (X:/Unreal_4_projects/MyChaosVehicle/Intermediate/Shaders/WorkingDirectory/2844/).
+[2023.02.24-23.15.28:277][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cccor/AppData/Local/Temp/UnrealShaderWorkingDir/B42D544C4B79314E448AA8A03F7D3AD0/'.
+[2023.02.24-23.15.28:277][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.24-23.15.28:277][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.24-23.15.28:277][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.24-23.15.28:879][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.24-23.15.28:922][  0]LogDerivedDataCache: Loaded boot cache 0.04s 95MB C:/Users/cccor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.24-23.15.28:922][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cccor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.02.24-23.15.28:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file X:/Unreal_4_projects/MyChaosVehicle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.24-23.15.28:922][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.24-23.15.28:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file X:/Unreal_4_projects/MyChaosVehicle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.24-23.15.28:922][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.24-23.15.28:935][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.24-23.15.28:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.24-23.15.28:935][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.24-23.15.28:943][  0]LogDerivedDataCache: Speed tests for C:/Users/cccor/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.02.24-23.15.28:943][  0]LogDerivedDataCache: Display: Performance to C:/Users/cccor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=337.75MBs, RandomWriteSpeed=206.37MBs. Assigned SpeedClass 'Local'
+[2023.02.24-23.15.28:943][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cccor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.24-23.15.28:943][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.24-23.15.28:943][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.24-23.15.28:979][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.24-23.15.28:980][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.24-23.15.29:001][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2023.02.24-23.15.29:173][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.24-23.15.29:173][  0]LogInit: Active device profile: [000002933F46CF00][0000029340074FC0 49] Windows
+[2023.02.24-23.15.29:173][  0]LogInit: Profiles: [000002933F46CF00][0000029340074FC0 49] Windows, [000002933F37A400][0000029340081140 49] WindowsNoEditor, [000002933F46DF00][00000293400852C0 49] WindowsServer, [000002933F379500][0000029340089440 49] WindowsClient, [000002933F46D200][000002934008D5C0 49] IOS, [000002933F37BA00][0000029340091740 49] iPadAir, [000002933F46F300][00000293400958C0 49] iPadAir2, [000002933F249300][00000293400E7B80 49] IPadPro, [000002933F249400][00000293400DFBC0 49] iPadAir3, [000002933F378B00][000002933B5501C0 49] iPadAir4, [000002933F24A100][000002933B56C340 49] iPadMini2, [000002933F37B400][000002933B5704C0 49] iPadMini3, [000002933F24AC00][0000029340078600 49] iPadMini4, [000002933F37A600][000002933B574740 49] iPadMini5, [000002933F28CE00][000002933B580980 49] iPhone6, [000002933F28CF00][000002933B5789C0 49] iPodTouch6, [000002933F46F700][000002933B59CC80 49] iPhone7, [000002933F46E800][000002933B598CC0 49] iPodTouch7, [000002933F249100][000002933B5A0E40 49] iPhone5S, [000002933F46D100][000002933B5A4FC0 49] iPhone6Plus, [000002933F24AA00][000002933B5B1140 49] iPhone6S, [000002933F46DA00][000002933D9A32C0 49] iPhone6SPlus, [000002933F28C100][000002933B5BD440 49] iPhone7Plus, [000002933F249D00][000002933B5C15C0 49] iPhoneSE, [000002933F28CC00][0000029340513740 49] iPhone8, [000002933F248400][00000293405178C0 49] iPhone8Plus, [000002933F28EA00][000002934051BA40 49] iPhoneX, [000002933F24BC00][00000293401D3BC0 49] iPhoneXS, [000002933F28E900][00000293401D61C0 49] iPhoneXSMax, [000002933F248B00][00000293401DA340 49] iPhoneXR, [000002933F46F800][000002933B88C4C0 49] iPhone11, [000002933F24BD00][000002933B890640 49] iPhone11Pro, [000002933F46DB00][000002933B594780 49] iPhone11ProMax, [000002933F249500][000002933B8948C0 49] iPhoneSE2, [000002933F46DE00][000002933B898A00 49] iPhone12Mini, [000002933F24B100][000002933B89CB40 49] iPhone12, [000002933F46F400][000002933B8A4CC0 49] iPhone12Pro, [000002933F248D00][000002933B534E40 49] iPhone12ProMax, [000002933F46FC00][000002933B544FC0 49] iPadPro105, [000002933F24B700][000002933B549140 49] iPadPro129, [000002933F46EA00][000002933B54D2C0 49] iPadPro97, [000002933F248900][0000029337C2D440 49] iPadPro2_129, [000002933F46C800][0000029337C355C0 49] iPad5, [000002933F249000][0000029337C43740 49] iPad6, [000002933F46C400][0000029337C478C0 49] iPad7, [000002933F24AB00][0000029337C4BA40 49] iPad8, [000002933F46F500][0000029337C4FBC0 49] iPadPro11, [000002933F249800][0000029337C521C0 49] iPadPro2_11, [000002933F46C900][0000029337C56340 49] iPadPro3_129, [000002933F24A800][0000029337C5A4C0 49] iPadPro4_129, [000002933F46EE00][0000029337C5E640 49] AppleTV, [000002933F24BE00][0000029337C767C0 49] AppleTV4K, [000002933F46C500][00000293418C0940 49] TVOS, [000002933F249700][000002933B8A0A80 49] Mac, [000002933F46E300][00000293418F8BC0 49] MacClient, [000002933F248800][00000293418FCD00 49] MacNoEditor, [000002933F46D000][0000029341904E80 49] MacServer, [000002933F248500][000002934190D000 49] Linux, [000002933F46EB00][0000029341911180 49] LinuxAArch64, [000002933F249600][0000029341915300 49] LinuxNoEditor, [000002933F46E100][000002934191D480 49] LinuxAArch64NoEditor, [000002933F24B900][0000029341921600 49] LinuxClient, [000002933F46E600][0000029341925780 49] LinuxAArch64Client, [000002933F24A300][0000029341929900 49] LinuxServer, [000002933F46C700][000002934192DA80 49] LinuxAArch64Server, [000002933F249A00][000002933B887C00 49] Android, [000002933F46E200][000002933B4E2200 49] Android_Low, [000002933F249C00][0000029340024380 49] Android_Mid, [000002933F46D300][0000029341908500 49] Android_High, [000002933F248E00][0000029341918680 49] Android_Default, [000002933F46F600][0000029340028800 49] Android_Adreno4xx, [000002933F248F00][00000293418F4980 49] Android_Adreno5xx_Low, [000002933F46FB00][000002933B4E6B00 49] Android_Adreno5xx, [000002933F24BA00][0000029341900C40 49] Android_Adreno6xx, [000002933F46CB00][000002933B4EAD80 49] Android_Adreno6xx_Vulkan, [000002933F249900][000002933B4EEEC0 49] Android_Mali_T6xx, [000002933F46CA00][000002933B4F7040 49] Android_Mali_T7xx, [000002933F379400][00000293401631C0 49] Android_Mali_T8xx, [000002933F28C500][0000029340167340 49] Android_Mali_G71, [000002933F378600][000002934016B4C0 49] Android_Mali_G72, [000002933F28C300][000002934016F640 49] Android_Mali_G72_Vulkan, [000002933F37B300][00000293401737C0 49] Android_Mali_G76, [000002933F28D000][0000029340177940 49] Android_Mali_G76_Vulkan, [000002933F37A000][000002934017BAC0 49] Android_Mali_G77, [000002933F28EF00][000002934017E0C0 49] Android_Mali_G77_Vulkan, [000002933F378E00][0000029340182240 49] Android_Mali_G78, [000002933F28F100][00000293401863C0 49] Android_Mali_G78_Vulkan, [000002933F378800][000002934018A540 49] Android_Mali_G710, [000002933F28EC00][000002934018E6C0 49] Android_Mali_G710_Vulkan, [000002933F37B600][0000029340192840 49] Android_Vulkan_SM5, [000002933F28F500][00000293401969C0 49] Android_PowerVR_G6xxx, [000002933F379900][000002934019AB40 49] Android_PowerVR_GT7xxx, [000002933F28DD00][000002934019ECC0 49] Android_PowerVR_GE8xxx, [000002933F37AD00][000002933B4F2E00 49] Android_PowerVR_GM9xxx, [000002933F28C800][00000293401A2F40 49] Android_PowerVR_GM9xxx_Vulkan, [000002933F37B100][00000293401A7080 49] Android_TegraK1, [000002933F28D200][00000293401AB1C0 49] Android_Unknown_Vulkan, [000002933F37A300][00000293401B3340 49] Lumin, [000002933F28F700][00000293401B74C0 49] Lumin_Desktop, [000002933F37A800][00000293401BB640 49] HoloLens, 
+[2023.02.24-23.15.29:275][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.24-23.15.29:275][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.24-23.15.29:275][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.24-23.15.29:275][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.24-23.15.29:276][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.24-23.15.29:286][  0]LogNetVersion: MyChaosVehicle 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1226595987)
+[2023.02.24-23.15.29:570][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.24-23.15.29:611][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.02.24-23.15.29:615][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.02.24-23.15.29:615][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.02.24-23.15.29:615][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.24-23.15.29:744][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B444F46D449AEAFE6DA6E58D262D00FE | Instance: 72211FB246B8D877BC77C0A82C624B10 (CPC-2844).
+[2023.02.24-23.15.29:943][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.24-23.15.29:955][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.24-23.15.29:967][  0]LogPython: Using Python 3.7.7
+[2023.02.24-23.15.30:490][  0]SourceControl: Source control is disabled
+[2023.02.24-23.15.30:490][  0]SourceControl: Source control is disabled
+[2023.02.24-23.15.30:495][  0]SourceControl: Source control is disabled
+[2023.02.24-23.15.30:501][  0]SourceControl: Source control is disabled
+[2023.02.24-23.15.30:503][  0]SourceControl: Source control is disabled
+[2023.02.24-23.15.30:509][  0]LogUProjectInfo: Found projects:
+[2023.02.24-23.15.30:662][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.24-23.15.30:682][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.24-23.15.30:682][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.24-23.15.30:750][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.24-23.15.30:768][  0]LogHoudiniEngine: Starting the Houdini Engine module...
+[2023.02.24-23.15.30:768][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path X:/Program Files/Side Effects Software/Houdini 19.5.493/bin
+[2023.02.24-23.15.30:770][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.02.24-23.15.30:853][  0]LogCollectionManager: Loaded 0 collections in 0.001465 seconds
+[2023.02.24-23.15.30:872][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal_4_projects/MyChaosVehicle/Saved/Collections/' took 0.00s
+[2023.02.24-23.15.30:872][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal_4_projects/MyChaosVehicle/Content/Developers/c/Collections/' took 0.00s
+[2023.02.24-23.15.30:872][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal_4_projects/MyChaosVehicle/Content/Collections/' took 0.00s
+[2023.02.24-23.15.30:872][  0]LogOcInput: OculusInput pre-init called
+[2023.02.24-23.15.31:072][  0]LogClass: Display: EnumProperty FVehicleThrustConfig::ThrustType is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: StructProperty FVehicleThrustConfig::Offset is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: StructProperty FVehicleThrustConfig::ThrustAxis is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleThrustConfig::MaxThrustForce is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleThrustConfig::MaxControlAngle is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: EnumProperty FVehicleAerofoilConfig::AerofoilType is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: StructProperty FVehicleAerofoilConfig::Offset is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: StructProperty FVehicleAerofoilConfig::UpAxis is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::Area is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::Camber is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::MaxControlAngle is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::StallAngle is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::LiftMultiplier is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::DragMultiplier is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: BoolProperty FVehicleStabilizeControlConfig::Enabled is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleStabilizeControlConfig::AltitudeHoldZ is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleStabilizeControlConfig::PositionHoldXY is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: BoolProperty FVehicleTargetRotationControlConfig::Enabled is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: BoolProperty FVehicleTargetRotationControlConfig::bRollVsSpeedEnabled is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::RollControlScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::RollMaxAngle is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::PitchControlScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::PitchMaxAngle is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::RotationStiffness is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::RotationDamping is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::MaxAccel is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::AutoCentreRollStrength is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::AutoCentrePitchStrength is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::AutoCentreYawStrength is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: BoolProperty FVehicleTorqueControlConfig::Enabled is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::YawTorqueScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::YawFromSteering is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::YawFromRollTorqueScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::PitchTorqueScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::RollTorqueScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::RollFromSteering is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::RotationDamping is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::SteeringInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::ThrottleInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::BrakeInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::PitchInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::RollInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::YawInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::HandbrakeInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: IntProperty FVehicleReplicatedState::TargetGear is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::ThrottleUp is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::ThrottleDown is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: EnumProperty FVehicleSteeringConfig::SteeringType is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleSteeringConfig::AngleRatio is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: BoolProperty FVehicleTransmissionConfig::bUseAutomaticGears is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: BoolProperty FVehicleTransmissionConfig::bUseAutoReverse is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTransmissionConfig::FinalRatio is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTransmissionConfig::ChangeUpRPM is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:072][  0]LogClass: Display: FloatProperty FVehicleTransmissionConfig::ChangeDownRPM is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: FloatProperty FVehicleTransmissionConfig::GearChangeTime is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: FloatProperty FVehicleTransmissionConfig::TransmissionEfficiency is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::MaxTorque is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::MaxRPM is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::EngineIdleRPM is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::EngineBrakeEffect is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::EngineRevUpMOI is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::EngineRevDownRate is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: EnumProperty FVehicleDifferentialConfig::DifferentialType is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: FloatProperty FVehicleDifferentialConfig::FrontRearSplit is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::Handle is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::VendorID is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::ProductID is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2023.02.24-23.15.31:073][  0]LogClass: Display: 67 Uninitialized script struct members found including 0 object properties
+[2023.02.24-23.15.31:074][  0]LogEngine: Initializing Engine...
+[2023.02.24-23.15.31:076][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.02.24-23.15.31:076][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.24-23.15.31:076][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.02.24-23.15.31:077][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.24-23.15.31:162][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.24-23.15.31:168][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.24-23.15.31:177][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.24-23.15.31:181][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.24-23.15.31:181][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.24-23.15.31:181][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.24-23.15.31:181][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.24-23.15.31:181][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.24-23.15.31:181][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.24-23.15.31:181][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.24-23.15.31:181][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.24-23.15.31:181][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.24-23.15.31:181][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.24-23.15.31:181][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.24-23.15.31:181][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.24-23.15.31:181][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.24-23.15.31:181][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.24-23.15.31:182][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.24-23.15.31:182][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.24-23.15.31:190][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.24-23.15.31:190][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.24-23.15.31:204][  0]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.24-23.15.31:206][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.24-23.15.31:207][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.24-23.15.31:207][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.24-23.15.31:208][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.24-23.15.31:208][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.24-23.15.31:208][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.24-23.15.31:209][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.24-23.15.31:209][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.24-23.15.31:209][  0]LogInit: FAudioDevice initialized.
+[2023.02.24-23.15.31:209][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.24-23.15.31:209][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.24-23.15.31:245][  0]LogDerivedDataCache: Saved boot cache 0.04s 95MB C:/Users/cccor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.24-23.15.31:245][  0]LogInit: Texture streaming: Enabled
+[2023.02.24-23.15.31:256][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.02.24-23.15.31:259][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.24-23.15.31:259][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.24-23.15.31:260][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.24-23.15.31:279][  0]LogInit: Transaction tracking system initialized
+[2023.02.24-23.15.31:296][  0]BlueprintLog: New page: Editor Load
+[2023.02.24-23.15.31:343][  0]LocalizationService: Localization service is disabled
+[2023.02.24-23.15.31:361][  0]TimingProfiler: Initialize
+[2023.02.24-23.15.31:361][  0]TimingProfiler: OnSessionChanged
+[2023.02.24-23.15.31:361][  0]LoadingProfiler: Initialize
+[2023.02.24-23.15.31:361][  0]LoadingProfiler: OnSessionChanged
+[2023.02.24-23.15.31:361][  0]NetworkingProfiler: Initialize
+[2023.02.24-23.15.31:361][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.24-23.15.31:361][  0]MemoryProfiler: Initialize
+[2023.02.24-23.15.31:361][  0]MemoryProfiler: OnSessionChanged
+[2023.02.24-23.15.31:468][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.24-23.15.31:468][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.24-23.15.31:598][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal_4_projects/MyChaosVehicle/Content/' took 0.00s
+[2023.02.24-23.15.31:598][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2023.02.24-23.15.31:601][  0]LogHoudiniEngineEditor: Houdini Spline Component Visualizer Registered!
+[2023.02.24-23.15.31:601][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2023.02.24-23.15.31:782][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.24-23.15.31:784][  0]SourceControl: Source control is disabled
+[2023.02.24-23.15.31:784][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.379
+[2023.02.24-23.15.31:784][  0]Cmd: MAP LOAD FILE="X:/Unreal_4_projects/MyChaosVehicle/Content/VehicleAdvBP/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.24-23.15.31:784][  0]LightingResults: New page: Lighting Build
+[2023.02.24-23.15.31:785][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.24-23.15.31:786][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.24-23.15.31:786][  0]MapCheck: New page: Map Check
+[2023.02.24-23.15.31:786][  0]LightingResults: New page: Lighting Build
+[2023.02.24-23.15.31:789][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.24-23.15.31:791][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.02.24-23.15.32:024][  0]LogSkeletalMesh: Display: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Vehicle_SkelMesh.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.02.24-23.15.32:038][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VehicleAdvExampleMap'.
+[2023.02.24-23.15.32:038][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2023.02.24-23.15.32:127][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.24-23.15.32:137][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.02.24-23.15.32:137][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.24-23.15.32:137][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,067ms to complete.
+[2023.02.24-23.15.32:137][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 0.353
+[2023.02.24-23.15.32:139][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.734
+[2023.02.24-23.15.32:253][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-23.15.32:258][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-23.15.32:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-23.15.32:267][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.24-23.15.32:278][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0073 seconds. Added 3932 classes and 943 folders.
+[2023.02.24-23.15.32:279][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.24-23.15.32:280][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.24-23.15.32:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.24-23.15.32:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.02.24-23.15.32:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.02.24-23.15.32:280][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.24-23.15.32:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.24-23.15.32:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.02.24-23.15.32:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.02.24-23.15.32:280][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.24-23.15.32:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.24-23.15.32:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.02.24-23.15.32:281][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.24-23.15.32:281][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.24-23.15.32:281][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:281][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.24-23.15.32:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.02.24-23.15.32:281][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.24-23.15.32:281][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.24-23.15.32:281][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:281][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.24-23.15.32:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:281][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.02.24-23.15.32:281][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.24-23.15.32:282][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.24-23.15.32:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.24-23.15.32:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.02.24-23.15.32:282][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.24-23.15.32:282][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.24-23.15.32:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.24-23.15.32:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.02.24-23.15.32:282][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.02.24-23.15.32:282][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.24-23.15.32:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.24-23.15.32:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:282][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.02.24-23.15.32:282][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.24-23.15.32:283][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.24-23.15.32:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.24-23.15.32:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.02.24-23.15.32:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.24-23.15.32:283][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.24-23.15.32:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.24-23.15.32:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.02.24-23.15.32:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.24-23.15.32:283][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.24-23.15.32:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.24-23.15.32:283][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.02.24-23.15.32:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.24-23.15.32:284][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.24-23.15.32:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.24-23.15.32:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.02.24-23.15.32:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.24-23.15.32:284][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.24-23.15.32:284][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:284][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.24-23.15.32:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:284][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.02.24-23.15.32:284][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.02.24-23.15.32:285][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.24-23.15.32:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.24-23.15.32:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.02.24-23.15.32:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.24-23.15.32:285][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.24-23.15.32:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.24-23.15.32:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.02.24-23.15.32:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.24-23.15.32:285][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.24-23.15.32:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.24-23.15.32:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:285][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.02.24-23.15.32:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.02.24-23.15.32:286][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.24-23.15.32:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.24-23.15.32:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.02.24-23.15.32:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.24-23.15.32:286][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.24-23.15.32:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.24-23.15.32:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.02.24-23.15.32:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.02.24-23.15.32:286][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.24-23.15.32:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.24-23.15.32:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:286][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.02.24-23.15.32:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.24-23.15.32:287][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.24-23.15.32:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.24-23.15.32:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.02.24-23.15.32:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.24-23.15.32:287][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.24-23.15.32:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.24-23.15.32:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.02.24-23.15.32:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.24-23.15.32:287][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.24-23.15.32:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.24-23.15.32:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:287][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.02.24-23.15.32:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.24-23.15.32:288][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.24-23.15.32:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.24-23.15.32:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.02.24-23.15.32:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.02.24-23.15.32:288][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.24-23.15.32:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.24-23.15.32:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:288][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.02.24-23.15.32:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2023.02.24-23.15.32:289][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.24-23.15.32:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.24-23.15.32:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.02.24-23.15.32:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.02.24-23.15.32:289][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.24-23.15.32:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.24-23.15.32:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.24-23.15.32:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.24-23.15.32:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.02.24-23.15.32:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.02.24-23.15.32:327][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.24-23.15.32:331][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.02.24-23.15.32:416][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.24-23.15.32:417][  0]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.24-23.15.32:418][  0]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.24-23.15.32:484][  0]LogRenderer: Reallocating scene render targets to support 1616x804 Format 10 NumSamples 1 (Frame:1).
+[2023.02.24-23.15.32:543][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.24-23.15.32:543][  0]LogLoad: (Engine Initialization) Total time: 6.14 seconds
+[2023.02.24-23.15.32:543][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.24-23.15.32:553][  0]LogRawInputWindows: Warning: Found device 10 devices
+[2023.02.24-23.15.32:553][  0]LogRawInputWindows: Warning: Found device 10 devices
+[2023.02.24-23.15.32:554][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2023.02.24-23.15.32:554][  0]LogRawInputWindows: Warning: Found device 10 devices
+[2023.02.24-23.15.32:554][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2023.02.24-23.15.32:578][  0]LogAssetRegistry: Asset discovery search completed in 3.5772 seconds
+[2023.02.24-23.15.32:581][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.02.24-23.15.32:588][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.24-23.15.33:558][108]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.24-23.15.36:838][437]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/VehicleAdv/Vehicle/Vehicle_SkelMesh.Vehicle_SkelMesh
+[2023.02.24-23.15.36:843][437]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.02.24-23.15.36:847][437]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.02.24-23.15.36:915][437]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.24-23.15.36:974][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.24-23.15.36:975][437]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2023.02.24-23.15.37:170][437]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/VehicleAdv/Vehicle/VehicleSkeleton.VehicleSkeleton
+[2023.02.24-23.15.37:173][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.24-23.15.37:320][437]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/VehicleAdv/Vehicle/VehiclePhysicsAsset.VehiclePhysicsAsset
+[2023.02.24-23.15.37:325][437]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0002 seconds. Added 8 classes and 3 folders.
+[2023.02.24-23.15.37:331][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2023.02.24-23.15.37:487][437]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/VehicleAdv/Vehicle/ChaosVehicleAnimationBlueprint.ChaosVehicleAnimationBlueprint
+[2023.02.24-23.15.37:491][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.02.24-23.15.37:605][437]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.02.24-23.15.38:386][437]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdv/Vehicle/WheelData/ChaosVehicle_FrontWheel.ChaosVehicle_FrontWheel
+[2023.02.24-23.15.38:637][437]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdv/Vehicle/WheelData/ChaosVehicle_RearWheel.ChaosVehicle_RearWheel
+[2023.02.24-23.15.38:887][437]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode
+[2023.02.24-23.15.39:170][437]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdv/Vehicle/ChaosVehiclePawn.ChaosVehiclePawn
+[2023.02.24-23.15.39:505][437]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.24-23.15.39:548][438]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.24-23.15.42:784][790]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2023.02.24-23.15.42:798][791]LogRenderer: Reallocating scene render targets to support 1616x1220 Format 10 NumSamples 1 (Frame:1).
+[2023.02.24-23.15.43:160][826]LogRenderer: Reallocating scene render targets to support 1616x1224 Format 10 NumSamples 1 (Frame:38).
+[2023.02.24-23.15.43:528][859]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2023.02.24-23.15.43:552][860]LogRenderer: Reallocating scene render targets to support 1616x1236 Format 10 NumSamples 1 (Frame:74).
+[2023.02.24-23.15.44:983][993]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2023.02.24-23.16.03:397][973]LogSlate: Window 'ChaosVehiclePawn' being destroyed
+[2023.02.24-23.16.12:403][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Models/Vehicle/VehicleAnimationBlueprint': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Models/Vehicle/VehicleAnimationBlueprint': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Blueprints/VeihcleBP/VehicleAdvHud': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Blueprints/VeihcleBP/VehicleAdvHud': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Blueprints/VeihcleBP/WheelData/WheelBack': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Blueprints/VeihcleBP/WheelData/WheelBack': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Blueprints/VeihcleBP/WheelData/WheelFront': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Blueprints/VeihcleBP/WheelData/WheelFront': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:404][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:405][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:405][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:405][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:405][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:405][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:405][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:406][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Blueprints/VeihcleBP/VehicleAdvHud': Can't find file.
+[2023.02.24-23.16.12:406][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Blueprints/VeihcleBP/WheelData/WheelBack': Can't find file.
+[2023.02.24-23.16.12:406][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Blueprints/VeihcleBP/WheelData/WheelFront': Can't find file.
+[2023.02.24-23.16.12:406][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Models/Vehicle/Vehicle_SkelMesh': Can't find file.
+[2023.02.24-23.16.12:406][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Models/Vehicle/Vehicle_SkelMesh': Can't find file.
+[2023.02.24-23.16.12:406][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Models/Vehicle/VehicleAnimationBlueprint': Can't find file.
+[2023.02.24-23.16.12:406][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/PhysicsMaterials/PM_Default': Can't find file.
+[2023.02.24-23.16.12:406][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/PhysicsMaterials/PM_Default': Can't find file.
+[2023.02.24-23.16.12:406][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Sound/Engine_att': Can't find file.
+[2023.02.24-23.16.12:406][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Sound/Engine_att': Can't find file.
+[2023.02.24-23.16.12:406][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Sound/Engine_Loop_Cue': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Sound/Engine_Loop_Cue': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/StarterContent/Particles/P_Steam_Lit': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/StarterContent/Particles/P_Steam_Lit': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/StarterContent/Particles/P_Steam_Lit': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/PhysicsMaterials/PM_Default': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Models/Vehicle/Vehicle_SkelMesh': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Sound/Engine_att': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Sound/Engine_Loop_Cue': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:407][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:408][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Unable to load Default__Master_Cart_C with outer Package /Game/VehicleAdv/Vehicle/Master_Cart because its class does not exist
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:409][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:410][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:410][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:410][993]LogLinker: Warning: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:410][993]LogLinker: Warning: Unable to load MovementComp with outer Master_Cart_C /Game/VehicleAdv/Vehicle/Master_Cart.Default__Master_Cart_C because its class does not exist
+[2023.02.24-23.16.12:410][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:410][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by Master_Cart
+[2023.02.24-23.16.12:410][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:410][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:411][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:411][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_CallFunction_10823
+[2023.02.24-23.16.12:411][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:411][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:411][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_CallFunction_10882
+[2023.02.24-23.16.12:411][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:411][993]LogBlueprint: Warning: FMemberReference::ResolveMember (Update Physics Material) bSelfContext == true, but no scope supplied!
+[2023.02.24-23.16.12:411][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:411][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_CallFunction_12
+[2023.02.24-23.16.12:411][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:411][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:411][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_CallFunction_12417
+[2023.02.24-23.16.12:412][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:412][993]LogBlueprint: Warning: FMemberReference::ResolveMember (EnableIncarView) bSelfContext == true, but no scope supplied!
+[2023.02.24-23.16.12:412][993]LogBlueprint: Warning: FMemberReference::ResolveMember (EnableIncarView) bSelfContext == true, but no scope supplied!
+[2023.02.24-23.16.12:412][993]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorRotation) bSelfContext == true, but no scope supplied!
+[2023.02.24-23.16.12:412][993]LogBlueprint: Warning: FMemberReference::ResolveMember (Setup Incar HUD) bSelfContext == true, but no scope supplied!
+[2023.02.24-23.16.12:413][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:413][993]LoadErrors: Failed to load /Script/PhysXVehicles.VehicleWheel Referenced by K2Node_CallFunction_45
+[2023.02.24-23.16.12:413][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:413][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:413][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_CallFunction_4833
+[2023.02.24-23.16.12:413][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:413][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:413][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_CallFunction_5
+[2023.02.24-23.16.12:414][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:414][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:414][993]LoadErrors: Failed to load /Script/PhysXVehicles.VehicleWheel Referenced by K2Node_CallFunction_50
+[2023.02.24-23.16.12:414][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:414][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:414][993]LoadErrors: Failed to load /Script/PhysXVehicles.VehicleWheel Referenced by K2Node_CallFunction_52
+[2023.02.24-23.16.12:414][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:414][993]LogBlueprint: Warning: FMemberReference::ResolveMember (Update HUD Strings) bSelfContext == true, but no scope supplied!
+[2023.02.24-23.16.12:414][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:414][993]LoadErrors: Failed to load /Script/PhysXVehicles.VehicleWheel Referenced by K2Node_CallFunction_54
+[2023.02.24-23.16.12:414][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:415][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:415][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_CallFunction_6722
+[2023.02.24-23.16.12:415][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:415][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/PhysicsMaterials/PM_Default': Can't find file.
+[2023.02.24-23.16.12:415][993]LoadErrors: Failed to load /Game/PhysicsMaterials/PM_Default.PM_Default Referenced by K2Node_CallFunction_69
+[2023.02.24-23.16.12:415][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:415][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_CallFunction_7203
+[2023.02.24-23.16.12:415][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:416][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:416][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_CallFunction_3143
+[2023.02.24-23.16.12:416][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:416][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:416][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_CallFunction_3201
+[2023.02.24-23.16.12:416][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:416][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/PhysicsMaterials/PM_Default': Can't find file.
+[2023.02.24-23.16.12:416][993]LoadErrors: Failed to load /Game/PhysicsMaterials/PM_Default.PM_Default Referenced by K2Node_CallFunction_11652
+[2023.02.24-23.16.12:416][993]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorUpVector) bSelfContext == true, but no scope supplied!
+[2023.02.24-23.16.12:417][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Game/Blueprints/VeihcleBP/VehicleAdvHud': Can't find file.
+[2023.02.24-23.16.12:417][993]LoadErrors: Failed to load /Game/Blueprints/VeihcleBP/VehicleAdvHud.VehicleAdvHud_C Referenced by K2Node_FunctionEntry_110
+[2023.02.24-23.16.12:417][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:417][993]LoadErrors: Failed to load /Script/PhysXVehicles.VehicleWheel Referenced by K2Node_GetArrayItem_1
+[2023.02.24-23.16.12:417][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:417][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:417][993]LoadErrors: Failed to load /Script/PhysXVehicles.VehicleWheel Referenced by K2Node_GetArrayItem_4
+[2023.02.24-23.16.12:417][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:417][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:417][993]LoadErrors: Failed to load /Script/PhysXVehicles.VehicleWheel Referenced by K2Node_GetArrayItem_5
+[2023.02.24-23.16.12:417][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:417][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:417][993]LoadErrors: Failed to load /Script/PhysXVehicles.VehicleWheel Referenced by K2Node_GetArrayItem_6
+[2023.02.24-23.16.12:417][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:417][993]LogBlueprint: Warning: FMemberReference::ResolveMember (GetInputAxisValue) bSelfContext == true, but no scope supplied!
+[2023.02.24-23.16.12:417][993]LogBlueprint: Warning: FMemberReference::ResolveMember (GetInputAxisValue) bSelfContext == true, but no scope supplied!
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:419][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_InputAxisEvent_36
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:419][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_InputAxisEvent_46
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:419][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_2425
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:419][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_2469
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:419][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_256
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:419][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_257
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:419][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:420][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_2646
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:420][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_66
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:420][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_0
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:420][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_VariableGet_1
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:420][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_1
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:420][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_10
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:420][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_VariableGet_100
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:420][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_100
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:420][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_VariableGet_116
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:420][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_116
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:420][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_118
+[2023.02.24-23.16.12:420][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:421][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_12
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:421][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_VariableGet_1281
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:421][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_1281
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:421][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_13
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:421][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_14
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:421][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_16
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:421][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_17
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:421][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_18
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:421][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_189
+[2023.02.24-23.16.12:421][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:422][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_19
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:422][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_20
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:422][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_21
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:422][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_22
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:422][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_VariableGet_23
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:422][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_23
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:422][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_VariableGet_24
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:422][993]LoadErrors: Failed to load /Script/PhysXVehicles.VehicleWheel Referenced by K2Node_VariableGet_24
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:422][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:423][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_25
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:423][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_26
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:423][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_2648
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:423][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_27
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:423][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_280
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:423][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_3
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:423][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_395
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:423][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_VariableGet_4
+[2023.02.24-23.16.12:423][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:423][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_4
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:424][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_5
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:424][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_VariableGet_6
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:424][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_6
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:424][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_VariableGet_9
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:424][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_9
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:424][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_113
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:424][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_1653
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:424][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_1733
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:424][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_282
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:424][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:425][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_288
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:425][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_403
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:425][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_641
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:425][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_643
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:425][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_1309
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:425][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicleMovementComponent Referenced by K2Node_VariableGet_650
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:425][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_650
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:425][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_338
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:425][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_339
+[2023.02.24-23.16.12:425][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:425][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_340
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:426][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableGet_341
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:426][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableSet_1664
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:426][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableSet_847
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:426][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableSet_194
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:426][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableSet_384
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:426][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableSet_445
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:426][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableSet_446
+[2023.02.24-23.16.12:426][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:427][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:427][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableSet_163
+[2023.02.24-23.16.12:427][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:427][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:427][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by K2Node_VariableSet_164
+[2023.02.24-23.16.12:427][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:427][993]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle\Content\VehicleAdv\Vehicle\Master_Cart.uasset: Failed to load '/Script/PhysXVehicles': Can't find file.
+[2023.02.24-23.16.12:427][993]LoadErrors: Failed to load /Script/PhysXVehicles.WheeledVehicle Referenced by PackageMetaData
+[2023.02.24-23.16.12:427][993]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart_C
+[2023.02.24-23.16.12:454][993]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdv/Vehicle/Master_Cart.Master_Cart
+[2023.02.24-23.16.32:858][993]LogSlate: Window 'Message' being destroyed
+[2023.02.24-23.16.32:862][993]Message dialog closed, result: Yes, title: Message, text: Blueprint could not be loaded because it derives from an invalid class.  Check to make sure the parent class for this blueprint hasn't been removed! Do you want to continue (it can crash the editor)?
+[2023.02.24-23.16.32:875][993]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.02.24-23.16.32:958][993]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.083 s
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: === Handled ensure: ===
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: 
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 632]
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: Unable to resolve IsEventUnimplementable() - Blueprint (Master_Cart) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: Stack: 
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff92520ef1f UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff92505908d UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff925059a33 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff9250598cb UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff92733d816 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff927367199 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff92733de52 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff9275ad078 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff9275e8d17 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff9244cb017 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff9243c3edb UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff9275c38fe UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff9275bf00a UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff9275bf705 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff9273c9b58 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:958][993]LogOutputDevice: Error: [Callstack] 0x00007ff9273beab0 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff9273eca17 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff9274a26af UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff9274a2c88 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff91f39ffd6 UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff9297ab901 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff9297ac1bd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff9297abeea UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff90b5860cd UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff90b5862f0 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff90b572632 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff91fe4d63d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff91fe0ae40 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff91fd6dd7c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff91fd2ad97 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff91fc98944 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff91fd78ca7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff91fd6df6b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff92f512758 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff92f58cad7 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff92f576203 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff92f569319 UE4Editor-Slate.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff9727cbfff UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff9727b92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff9727ce465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff9727b4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff98a498281 USER32.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff98a497d41 USER32.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff9727cfcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff70ad97621 UE4Editor.exe!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff70adb0fcc UE4Editor.exe!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff70adb10ba UE4Editor.exe!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff70adb40dd UE4Editor.exe!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff70adc5984 UE4Editor.exe!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff70adc853a UE4Editor.exe!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff98a3726bd KERNEL32.DLL!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: [Callstack] 0x00007ff98b42dfb8 ntdll.dll!UnknownFunction []
+[2023.02.24-23.16.32:959][993]LogOutputDevice: Error: 

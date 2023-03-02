@@ -1,0 +1,1416 @@
+﻿Log file open, 02/27/23 10:53:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyChaosVehicle
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.201449
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-Chaos-CL-18386882
+LogInit: Engine Version: 4.27.2-18386882+++UE4+Release-4.27-Chaos
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27-Chaos
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 3090
+LogInit: Compiled (64-bit): Dec  8 2021 21:01:29
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27-Chaos
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27Chaos/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Engine.ini]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Engine.ini]
+[2023.02.27-09.53.20:489][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Engine.ini]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Engine.ini]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.02.27-09.53.20:489][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Engine.ini]
+[2023.02.27-09.53.20:489][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Engine.ini]
+[2023.02.27-09.53.20:509][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.27-09.53.20:509][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2023.02.27-09.53.20:510][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.27-09.53.20:510][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.27-09.53.20:510][  0]LogHAL: Display: Platform has ~ 32 GB [34293440512 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.27-09.53.20:510][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.27-09.53.20:510][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.27-09.53.20:510][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Scalability.ini]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.02.27-09.53.20:511][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Engine.ini]
+[2023.02.27-09.53.20:511][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Config/Windows/Editor.ini]
+[2023.02.27-09.53.20:511][  0]LogInit: Computer: CPC
+[2023.02.27-09.53.20:511][  0]LogInit: User: c
+[2023.02.27-09.53.20:511][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.02.27-09.53.20:511][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.27-09.53.20:511][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.02.27-09.53.20:511][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.27-09.53.20:511][  0]LogMemory: Process Physical Memory: 148.43 MB used, 148.43 MB peak
+[2023.02.27-09.53.20:511][  0]LogMemory: Process Virtual Memory: 129.43 MB used, 129.43 MB peak
+[2023.02.27-09.53.20:511][  0]LogMemory: Physical Memory: 4950.41 MB used,  27754.36 MB free, 32704.77 MB total
+[2023.02.27-09.53.20:512][  0]LogMemory: Virtual Memory: 134189816.00 MB used,  27913.29 MB free, 134217728.00 MB total
+[2023.02.27-09.53.20:515][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.27-09.53.20:528][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.02.27-09.53.20:528][  0]LogInit: Using OS detected language (en-GB).
+[2023.02.27-09.53.20:528][  0]LogInit: Using OS detected locale (en-NL).
+[2023.02.27-09.53.20:532][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2023.02.27-09.53.20:671][  0]LogInit: Setting process to per monitor DPI aware
+[2023.02.27-09.53.20:683][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.27-09.53.20:691][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.27-09.53.20:691][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.27-09.53.20:792][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.02.27-09.53.20:795][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.27-09.53.20:795][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.27-09.53.20:795][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.27-09.53.20:795][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.27-09.53.20:875][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3090' (Feature Level 11_0)
+[2023.02.27-09.53.20:875][  0]LogD3D11RHI:       24340/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.02.27-09.53.20:876][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.27-09.53.20:876][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.27-09.53.20:876][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.02.27-09.53.20:877][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3090
+[2023.02.27-09.53.20:877][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.27-09.53.20:877][  0]LogD3D11RHI:     DeviceId    : 2204
+[2023.02.27-09.53.20:877][  0]LogD3D11RHI:     SubSysId    : 38841462
+[2023.02.27-09.53.20:877][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.27-09.53.20:877][  0]LogD3D11RHI:     DedicatedVideoMemory : 25522339840 bytes
+[2023.02.27-09.53.20:877][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.27-09.53.20:877][  0]LogD3D11RHI:     SharedSystemMemory : 17146720256 bytes
+[2023.02.27-09.53.20:877][  0]LogD3D11RHI:     AdapterLuid : 0 45120
+[2023.02.27-09.53.20:880][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.27-09.53.20:880][  0]LogD3D11RHI:     GPU DeviceId: 0x2204 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.27-09.53.20:880][  0]LogWindows: EnumDisplayDevices:
+[2023.02.27-09.53.20:880][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3090' (P:1 D:1)
+[2023.02.27-09.53.20:880][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3090' (P:0 D:0)
+[2023.02.27-09.53.20:880][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3090' (P:0 D:0)
+[2023.02.27-09.53.20:880][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3090' (P:0 D:0)
+[2023.02.27-09.53.20:880][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.02.27-09.53.20:880][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3090
+[2023.02.27-09.53.20:880][  0]LogD3D11RHI:   Driver Version: 528.49 (internal:31.0.15.2849, unified:528.49)
+[2023.02.27-09.53.20:880][  0]LogD3D11RHI:      Driver Date: 2-2-2023
+[2023.02.27-09.53.20:880][  0]LogRHI: Texture pool is 17038 MB (70% of 24340 MB)
+[2023.02.27-09.53.20:881][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.02.27-09.53.20:881][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3090
+[2023.02.27-09.53.20:881][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.27-09.53.20:881][  0]LogD3D11RHI:     DeviceId    : 2204
+[2023.02.27-09.53.20:881][  0]LogD3D11RHI:     SubSysId    : 38841462
+[2023.02.27-09.53.20:881][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.27-09.53.20:881][  0]LogD3D11RHI:     DedicatedVideoMemory : 25522339840 bytes
+[2023.02.27-09.53.20:881][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.27-09.53.20:881][  0]LogD3D11RHI:     SharedSystemMemory : 17146720256 bytes
+[2023.02.27-09.53.20:881][  0]LogD3D11RHI:     AdapterLuid : 0 45120
+[2023.02.27-09.53.20:925][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.27-09.53.20:925][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.27-09.53.20:925][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.27-09.53.20:926][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2023.02.27-09.53.20:943][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.02.27-09.53.20:976][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.02.27-09.53.21:204][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.27-09.53.21:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.27-09.53.21:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.27-09.53.21:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.27-09.53.21:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.27-09.53.21:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.27-09.53.21:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.27-09.53.21:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.27-09.53.21:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.27-09.53.21:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.27-09.53.21:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.27-09.53.21:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.27-09.53.21:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.27-09.53.21:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.27-09.53.21:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.27-09.53.21:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.27-09.53.21:257][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.27-09.53.21:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.27-09.53.21:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.27-09.53.21:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.27-09.53.21:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.27-09.53.21:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.27-09.53.21:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.02.27-09.53.21:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.02.27-09.53.21:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.02.27-09.53.21:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.02.27-09.53.21:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.27-09.53.21:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.27-09.53.21:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.27-09.53.21:331][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.27-09.53.21:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.27-09.53.21:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.27-09.53.21:338][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.27-09.53.21:344][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.27-09.53.21:368][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.02.27-09.53.21:391][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.27-09.53.21:391][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (X:/Unreal_4_projects/MyChaosVehicle 4.27/Intermediate/Shaders/WorkingDirectory/3128/).
+[2023.02.27-09.53.21:392][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cccor/AppData/Local/Temp/UnrealShaderWorkingDir/469E824A465CC0ADAF31E889362D1527/'.
+[2023.02.27-09.53.21:392][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.27-09.53.21:392][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.27-09.53.21:392][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.27-09.53.22:036][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.27-09.53.22:079][  0]LogDerivedDataCache: Loaded boot cache 0.04s 103MB C:/Users/cccor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.27-09.53.22:079][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cccor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.02.27-09.53.22:079][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file X:/Unreal_4_projects/MyChaosVehicle 4.27/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.27-09.53.22:079][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.27-09.53.22:079][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file X:/Unreal_4_projects/MyChaosVehicle 4.27/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.27-09.53.22:079][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.27-09.53.22:093][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.27-09.53.22:093][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.27-09.53.22:093][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.27-09.53.22:101][  0]LogDerivedDataCache: Speed tests for C:/Users/cccor/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.02.27-09.53.22:101][  0]LogDerivedDataCache: Display: Performance to C:/Users/cccor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=253.27MBs, RandomWriteSpeed=268.25MBs. Assigned SpeedClass 'Local'
+[2023.02.27-09.53.22:101][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cccor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.02.27-09.53.22:101][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.27-09.53.22:101][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.27-09.53.22:144][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.27-09.53.22:144][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.27-09.53.22:163][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2023.02.27-09.53.22:342][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.27-09.53.22:342][  0]LogInit: Active device profile: [0000019818E62800][00000198167131C0 49] Windows
+[2023.02.27-09.53.22:342][  0]LogInit: Profiles: [0000019818E62800][00000198167131C0 49] Windows, [0000019818E1DA00][000001981671B340 49] WindowsNoEditor, [0000019818E61A00][000001981671F4C0 49] WindowsServer, [0000019818E1E900][0000019816723640 49] WindowsClient, [0000019818E62C00][00000198167277C0 49] IOS, [0000019818E1FE00][000001981672B940 49] iPadAir, [0000019818E62600][000001981672FAC0 49] iPadAir2, [0000019818D02B00][0000019816732180 49] IPadPro, [0000019818D02C00][00000198167161C0 49] iPadAir3, [0000019818E61C00][0000019817CA6300 49] iPadAir4, [0000019818D03300][0000019817CB6440 49] iPadMini2, [0000019818E61D00][0000019817CBE5C0 49] iPadMini3, [0000019818D03600][0000019817CD2740 49] iPadMini4, [0000019818E61E00][00000198153F08C0 49] iPadMini5, [0000019818D4E400][0000019815410B80 49] iPhone6, [0000019818D4E500][000001981540CBC0 49] iPodTouch6, [0000019818D01400][0000019815418E80 49] iPhone7, [0000019818D01300][0000019815414EC0 49] iPodTouch7, [0000019818D4EB00][0000019815421040 49] iPhone5S, [0000019818D00C00][00000198165811C0 49] iPhone6Plus, [0000019818D4D600][0000019816589340 49] iPhone6S, [0000019818D01A00][000001981658D4C0 49] iPhone6SPlus, [0000019818D4D700][0000019816591640 49] iPhone7Plus, [0000019818D02300][00000198165997C0 49] iPhoneSE, [0000019818D4E100][00000198165A1940 49] iPhone8, [0000019818D01700][00000198165A5AC0 49] iPhone8Plus, [0000019818D4DC00][000001981534A0C0 49] iPhoneX, [0000019818D02000][0000019817CBA200 49] iPhoneXS, [0000019818D4C400][000001981534E340 49] iPhoneXSMax, [0000019818D01800][0000019815938480 49] iPhoneXR, [0000019818D4F100][000001981593C5C0 49] iPhone11, [0000019818D00900][0000019815944740 49] iPhone11Pro, [0000019818D4CF00][00000198159488C0 49] iPhone11ProMax, [0000019818D02900][000001981594CA40 49] iPhoneSE2, [0000019818D4F700][0000019815950BC0 49] iPhone12Mini, [0000019818D00100][0000019815954D40 49] iPhone12, [0000019818D4CE00][0000019817C5EEC0 49] iPhone12Pro, [0000019818D03F00][0000019817C63040 49] iPhone12ProMax, [0000019818D4FD00][0000019817C671C0 49] iPadPro105, [0000019818D02E00][000001981A0EB340 49] iPadPro129, [0000019818D4E300][0000019817C774C0 49] iPadPro97, [0000019818D03C00][0000019817C7B640 49] iPadPro2_129, [0000019818D4EA00][0000019819E157C0 49] iPad5, [0000019818D00700][0000019819E19940 49] iPad6, [0000019818D4EE00][0000019819E1DAC0 49] iPad7, [0000019818D00400][0000019819F3E0C0 49] iPad8, [0000019818D4C200][0000019819F4C240 49] iPadPro11, [0000019818E1DD00][0000019819F503C0 49] iPadPro2_11, [0000019818F74D00][0000019815940500 49] iPadPro3_129, [0000019818E1F200][0000019819F54640 49] iPadPro4_129, [0000019818F74500][0000019819F58780 49] AppleTV, [0000019818E1FA00][0000019819F60900 49] AppleTV4K, [0000019818F74A00][0000019819F64A80 49] TVOS, [0000019818E1EA00][0000019819F68C00 49] Mac, [0000019818F74700][0000019819F6CD80 49] MacClient, [0000019818E1D100][0000019819F70F00 49] MacNoEditor, [0000019818F75200][00000198158E9080 49] MacServer, [0000019818E1C200][00000198158ED200 49] Linux, [0000019818F75700][00000198158F1380 49] LinuxAArch64, [0000019818D4C300][00000198158F5500 49] LinuxNoEditor, [0000019818D02500][00000198158FD680 49] LinuxAArch64NoEditor, [0000019818D4F000][0000019815901800 49] LinuxClient, [0000019818D03400][0000019815909980 49] LinuxAArch64Client, [0000019818D4FA00][000001981590DB00 49] LinuxServer, [0000019818D01900][0000019815910100 49] LinuxAArch64Server, [0000019818D4EF00][0000019815914280 49] Android, [0000019818D00A00][0000019815918400 49] Android_Low, [0000019818D4F500][000001981591C580 49] Android_Mid, [0000019818D01200][0000019819F5C6C0 49] Android_High, [0000019818D4FC00][000001981592C800 49] Android_Default, [0000019818D03800][0000019815930940 49] Android_Adreno4xx, [0000019818D4E600][00000198158F8AC0 49] Android_Adreno5xx_Low, [0000019818D00800][0000019815934C40 49] Android_Adreno5xx, [0000019818D4D500][00000198158E4DC0 49] Android_Adreno6xx, [0000019818D03E00][0000019815122F40 49] Android_Adreno6xx_Vulkan, [0000019818D4DE00][00000198151270C0 49] Android_Mali_T6xx, [0000019818D03700][000001981512B240 49] Android_Mali_T7xx, [0000019818D4E000][000001981512F3C0 49] Android_Mali_T8xx, [0000019818D01F00][0000019815133540 49] Android_Mali_G71, [0000019818D4DB00][00000198152E96C0 49] Android_Mali_G72, [0000019818D03D00][00000198152ED840 49] Android_Mali_G72_Vulkan, [0000019818D4C500][00000198152F19C0 49] Android_Mali_G76, [0000019818D03500][00000198152F5B40 49] Android_Mali_G76_Vulkan, [0000019818D4FE00][00000198152F8140 49] Android_Mali_G77, [0000019818D01D00][00000198152FC2C0 49] Android_Mali_G77_Vulkan, [0000019818D4F200][0000019815300440 49] Android_Mali_G78, [0000019818F74200][00000198153045C0 49] Android_Mali_G78_Vulkan, [0000019818D4DA00][0000019815308740 49] Android_Mali_G710, [0000019818D03200][0000019815904880 49] Android_Mali_G710_Vulkan, [0000019818D4D000][000001981530C9C0 49] Android_Vulkan_SM5, [0000019818D02600][0000019817C20B00 49] Android_PowerVR_G6xxx, [0000019818D4E900][0000019817C24C40 49] Android_PowerVR_GT7xxx, [0000019818D02800][0000019817C2CDC0 49] Android_PowerVR_GE8xxx, [0000019818D4ED00][0000019817C30F40 49] Android_PowerVR_GM9xxx, [0000019818D01500][0000019817C350C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000019818D4D100][0000019817C39240 49] Android_TegraK1, [0000019818D02700][0000019817C3D3C0 49] Android_Unknown_Vulkan, [0000019818D4C800][0000019817C41540 49] Lumin, [0000019818D01000][0000019817C456C0 49] Lumin_Desktop, [0000019818D4CA00][0000019817C49840 49] HoloLens, 
+[2023.02.27-09.53.22:443][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.27-09.53.22:443][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.27-09.53.22:443][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.27-09.53.22:443][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.27-09.53.22:443][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.27-09.53.22:454][  0]LogNetVersion: MyChaosVehicle 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1226595987)
+[2023.02.27-09.53.22:740][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.27-09.53.22:811][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.02.27-09.53.22:817][  0]LogUObjectArray: 18159 objects as part of root set at end of initial load.
+[2023.02.27-09.53.22:817][  0]LogUObjectAllocator: 4657984 out of 0 bytes used by permanent object pool.
+[2023.02.27-09.53.22:817][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.27-09.53.22:999][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 90A6FBFB4D90C2BA2A98EFB6D401E71A | Instance: BDB696D74E23343593AF6CAF4AF3FB98 (CPC-3128).
+[2023.02.27-09.53.23:104][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.27-09.53.23:109][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.27-09.53.23:142][  0]LogPython: Using Python 3.7.7
+[2023.02.27-09.53.23:658][  0]SourceControl: Source control is disabled
+[2023.02.27-09.53.23:658][  0]SourceControl: Source control is disabled
+[2023.02.27-09.53.23:664][  0]SourceControl: Source control is disabled
+[2023.02.27-09.53.23:666][  0]SourceControl: Source control is disabled
+[2023.02.27-09.53.23:672][  0]SourceControl: Source control is disabled
+[2023.02.27-09.53.23:677][  0]LogUProjectInfo: Found projects:
+[2023.02.27-09.53.23:883][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.27-09.53.23:900][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.27-09.53.23:916][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.27-09.53.23:916][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.27-09.53.24:035][  0]LogCollectionManager: Loaded 0 collections in 0.001386 seconds
+[2023.02.27-09.53.24:053][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Collections/' took 0.00s
+[2023.02.27-09.53.24:053][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Content/Developers/c/Collections/' took 0.00s
+[2023.02.27-09.53.24:053][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Content/Collections/' took 0.00s
+[2023.02.27-09.53.24:053][  0]LogOcInput: OculusInput pre-init called
+[2023.02.27-09.53.24:242][  0]LogClass: Display: EnumProperty FVehicleThrustConfig::ThrustType is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: StructProperty FVehicleThrustConfig::Offset is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: StructProperty FVehicleThrustConfig::ThrustAxis is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleThrustConfig::MaxThrustForce is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleThrustConfig::MaxControlAngle is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: EnumProperty FVehicleAerofoilConfig::AerofoilType is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: StructProperty FVehicleAerofoilConfig::Offset is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: StructProperty FVehicleAerofoilConfig::UpAxis is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::Area is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::Camber is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::MaxControlAngle is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::StallAngle is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::LiftMultiplier is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleAerofoilConfig::DragMultiplier is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: BoolProperty FVehicleStabilizeControlConfig::Enabled is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleStabilizeControlConfig::AltitudeHoldZ is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleStabilizeControlConfig::PositionHoldXY is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: BoolProperty FVehicleTargetRotationControlConfig::Enabled is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: BoolProperty FVehicleTargetRotationControlConfig::bRollVsSpeedEnabled is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::RollControlScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::RollMaxAngle is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::PitchControlScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::PitchMaxAngle is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::RotationStiffness is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::RotationDamping is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::MaxAccel is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::AutoCentreRollStrength is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::AutoCentrePitchStrength is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTargetRotationControlConfig::AutoCentreYawStrength is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: BoolProperty FVehicleTorqueControlConfig::Enabled is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::YawTorqueScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::YawFromSteering is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::YawFromRollTorqueScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::PitchTorqueScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::RollTorqueScaling is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::RollFromSteering is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleTorqueControlConfig::RotationDamping is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::SteeringInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::ThrottleInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::BrakeInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::PitchInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::RollInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:242][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::YawInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::HandbrakeInput is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: IntProperty FVehicleReplicatedState::TargetGear is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::ThrottleUp is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleReplicatedState::ThrottleDown is not initialized properly. Module:ChaosVehicles File:Public/ChaosVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: EnumProperty FVehicleSteeringConfig::SteeringType is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleSteeringConfig::AngleRatio is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: BoolProperty FVehicleTransmissionConfig::bUseAutomaticGears is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: BoolProperty FVehicleTransmissionConfig::bUseAutoReverse is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleTransmissionConfig::FinalRatio is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleTransmissionConfig::ChangeUpRPM is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleTransmissionConfig::ChangeDownRPM is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleTransmissionConfig::GearChangeTime is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleTransmissionConfig::TransmissionEfficiency is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::MaxTorque is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::MaxRPM is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::EngineIdleRPM is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::EngineBrakeEffect is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::EngineRevUpMOI is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleEngineConfig::EngineRevDownRate is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: EnumProperty FVehicleDifferentialConfig::DifferentialType is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FVehicleDifferentialConfig::FrontRearSplit is not initialized properly. Module:ChaosVehicles File:Public/ChaosWheeledVehicleMovementComponent.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: IntProperty FPhysicsConvexData::NumVertices is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: IntProperty FPhysicsConvexData::NumFaces is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FPhysicsCapsuleData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FPhysicsCapsuleData::Length is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: StructProperty FPhysicsBoxData::Dimensions is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: FloatProperty FPhysicsSphereData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: EnumProperty FLODLevelGenerateSettings::TargetMode is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetPercentage is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetCount is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::Handle is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::VendorID is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: IntProperty FRegisteredDeviceInfo::ProductID is not initialized properly. Module:RawInput File:Public/RawInputFunctionLibrary.h
+[2023.02.27-09.53.24:243][  0]LogClass: Display: 76 Uninitialized script struct members found including 0 object properties
+[2023.02.27-09.53.24:244][  0]LogEngine: Initializing Engine...
+[2023.02.27-09.53.24:284][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.02.27-09.53.24:284][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.27-09.53.24:284][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.02.27-09.53.24:285][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.27-09.53.24:371][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.27-09.53.24:378][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.02.27-09.53.24:387][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.27-09.53.24:389][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.27-09.53.24:390][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.27-09.53.24:390][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.27-09.53.24:390][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.27-09.53.24:390][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-09.53.24:390][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-09.53.24:390][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-09.53.24:390][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-09.53.24:390][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-09.53.24:390][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-09.53.24:390][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-09.53.24:390][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-09.53.24:391][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-09.53.24:391][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-09.53.24:391][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-09.53.24:391][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-09.53.24:400][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-09.53.24:400][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-09.53.24:424][  0]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.27-09.53.24:425][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-09.53.24:426][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-09.53.24:426][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-09.53.24:427][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-09.53.24:427][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-09.53.24:427][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-09.53.24:428][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-09.53.24:428][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-09.53.24:428][  0]LogInit: FAudioDevice initialized.
+[2023.02.27-09.53.24:428][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.27-09.53.24:428][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.27-09.53.24:464][  0]LogDerivedDataCache: Saved boot cache 0.04s 103MB C:/Users/cccor/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.27-09.53.24:465][  0]LogInit: Texture streaming: Enabled
+[2023.02.27-09.53.24:474][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18386882+++UE4+Release-4.27-Chaos
+[2023.02.27-09.53.24:477][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.02.27-09.53.24:477][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.02.27-09.53.24:478][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.02.27-09.53.24:495][  0]LogInit: Transaction tracking system initialized
+[2023.02.27-09.53.24:512][  0]BlueprintLog: New page: Editor Load
+[2023.02.27-09.53.24:557][  0]LocalizationService: Localization service is disabled
+[2023.02.27-09.53.24:576][  0]TimingProfiler: Initialize
+[2023.02.27-09.53.24:576][  0]TimingProfiler: OnSessionChanged
+[2023.02.27-09.53.24:576][  0]LoadingProfiler: Initialize
+[2023.02.27-09.53.24:576][  0]LoadingProfiler: OnSessionChanged
+[2023.02.27-09.53.24:576][  0]NetworkingProfiler: Initialize
+[2023.02.27-09.53.24:576][  0]NetworkingProfiler: OnSessionChanged
+[2023.02.27-09.53.24:576][  0]MemoryProfiler: Initialize
+[2023.02.27-09.53.24:576][  0]MemoryProfiler: OnSessionChanged
+[2023.02.27-09.53.24:703][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.27-09.53.24:703][  0]LogCook: Display: Mobile HDR setting 1
+[2023.02.27-09.53.24:875][  0]LogFileCache: Scanning file cache for directory 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Content/' took 0.00s
+[2023.02.27-09.53.25:031][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.27-09.53.25:034][  0]SourceControl: Source control is disabled
+[2023.02.27-09.53.25:035][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.463
+[2023.02.27-09.53.25:035][  0]Cmd: MAP LOAD FILE="X:/Unreal_4_projects/MyChaosVehicle 4.27/Content/Geometry/Maps/VehicleAdvExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.27-09.53.25:035][  0]LightingResults: New page: Lighting Build
+[2023.02.27-09.53.25:036][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-09.53.25:036][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-09.53.25:036][  0]MapCheck: New page: Map Check
+[2023.02.27-09.53.25:036][  0]LightingResults: New page: Lighting Build
+[2023.02.27-09.53.25:039][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-09.53.25:041][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.02.27-09.53.25:476][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VehicleAdvExampleMap'.
+[2023.02.27-09.53.25:477][  0]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2023.02.27-09.53.25:595][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.27-09.53.25:604][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.02.27-09.53.25:605][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.27-09.53.25:605][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,074ms to complete.
+[2023.02.27-09.53.25:605][  0]LogFileHelpers: Loading map 'VehicleAdvExampleMap' took 0.571
+[2023.02.27-09.53.25:606][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.036
+[2023.02.27-09.53.25:765][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-09.53.25:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-09.53.25:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-09.53.25:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-09.53.25:805][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 4227 classes and 962 folders.
+[2023.02.27-09.53.25:808][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.27-09.53.25:817][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.27-09.53.25:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.27-09.53.25:817][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:817][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/FP_FirstPerson.upack)
+[2023.02.27-09.53.25:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2023.02.27-09.53.25:824][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.27-09.53.25:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.27-09.53.25:824][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:824][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.02.27-09.53.25:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.02.27-09.53.25:828][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.02.27-09.53.25:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.02.27-09.53.25:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/MobileStarterContent.upack)
+[2023.02.27-09.53.25:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.02.27-09.53.25:833][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.27-09.53.25:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.27-09.53.25:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/StarterContent.upack)
+[2023.02.27-09.53.25:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.02.27-09.53.25:838][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.27-09.53.25:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.27-09.53.25:838][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:838][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_2DSideScroller.upack)
+[2023.02.27-09.53.25:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.02.27-09.53.25:842][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.27-09.53.25:842][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:842][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.27-09.53.25:842][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:842][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.02.27-09.53.25:842][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.02.27-09.53.25:846][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.27-09.53.25:846][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:846][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.27-09.53.25:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:846][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_Flying.upack)
+[2023.02.27-09.53.25:846][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.02.27-09.53.25:850][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.27-09.53.25:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.27-09.53.25:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_FlyingBP.upack)
+[2023.02.27-09.53.25:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.02.27-09.53.25:854][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.27-09.53.25:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.27-09.53.25:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_HandheldARBP.upack)
+[2023.02.27-09.53.25:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.02.27-09.53.25:859][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.02.27-09.53.25:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.02.27-09.53.25:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_Puzzle.upack)
+[2023.02.27-09.53.25:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.02.27-09.53.25:863][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.02.27-09.53.25:863][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:863][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.02.27-09.53.25:863][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:863][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_PuzzleBP.upack)
+[2023.02.27-09.53.25:863][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.02.27-09.53.25:867][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.27-09.53.25:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.27-09.53.25:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:867][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_Rolling.upack)
+[2023.02.27-09.53.25:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.02.27-09.53.25:872][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.27-09.53.25:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.27-09.53.25:872][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:872][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_RollingBP.upack)
+[2023.02.27-09.53.25:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.02.27-09.53.25:877][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.27-09.53.25:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.27-09.53.25:877][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:877][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_SideScroller.upack)
+[2023.02.27-09.53.25:877][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.02.27-09.53.25:881][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.02.27-09.53.25:881][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:881][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.02.27-09.53.25:881][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:881][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.02.27-09.53.25:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.02.27-09.53.25:886][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.27-09.53.25:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.27-09.53.25:886][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:886][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_ThirdPerson.upack)
+[2023.02.27-09.53.25:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.02.27-09.53.25:890][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.02.27-09.53.25:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.02.27-09.53.25:890][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:890][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.02.27-09.53.25:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.02.27-09.53.25:894][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.27-09.53.25:894][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:894][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.27-09.53.25:894][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:894][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_TopDown.upack)
+[2023.02.27-09.53.25:894][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.02.27-09.53.25:898][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.27-09.53.25:898][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:898][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.27-09.53.25:898][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:898][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_TopDownBP.upack)
+[2023.02.27-09.53.25:898][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.02.27-09.53.25:905][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.27-09.53.25:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:905][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.27-09.53.25:905][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:905][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_TwinStick.upack)
+[2023.02.27-09.53.25:905][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.02.27-09.53.25:910][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.02.27-09.53.25:910][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.02.27-09.53.25:910][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:910][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_TwinStickBP.upack)
+[2023.02.27-09.53.25:910][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.02.27-09.53.25:913][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.02.27-09.53.25:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.02.27-09.53.25:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:913][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_Vehicle.upack)
+[2023.02.27-09.53.25:913][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.02.27-09.53.25:917][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.02.27-09.53.25:917][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:917][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.02.27-09.53.25:917][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:918][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_VehicleAdv.upack)
+[2023.02.27-09.53.25:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.02.27-09.53.25:923][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.02.27-09.53.25:923][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:923][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.02.27-09.53.25:923][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:923][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.02.27-09.53.25:923][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.02.27-09.53.25:927][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.02.27-09.53.25:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.02.27-09.53.25:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_VehicleBP.upack)
+[2023.02.27-09.53.25:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.02.27-09.53.25:930][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.02.27-09.53.25:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.02.27-09.53.25:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.02.27-09.53.25:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.02.27-09.53.25:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27Chaos/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.02.27-09.53.25:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.02.27-09.53.26:122][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.27-09.53.26:127][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.02.27-09.53.26:223][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.02.27-09.53.26:223][  0]LogLoad: (Engine Initialization) Total time: 6.65 seconds
+[2023.02.27-09.53.26:223][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.27-09.53.26:234][  0]LogRawInputWindows: Warning: Found device 10 devices
+[2023.02.27-09.53.26:234][  0]LogRawInputWindows: Warning: Found device 10 devices
+[2023.02.27-09.53.26:234][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2023.02.27-09.53.26:236][  0]LogRawInputWindows: Warning: Found device 10 devices
+[2023.02.27-09.53.26:236][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2023.02.27-09.53.26:267][  0]LogAssetRegistry: Asset discovery search completed in 4.1045 seconds
+[2023.02.27-09.53.26:270][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.02.27-09.53.26:277][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.27-09.53.26:282][  0]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.27-09.53.26:287][  0]LogSlate: Took 0.004595 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.02.27-09.53.26:288][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.02.27-09.53.26:297][  0]LogSlate: Took 0.004728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.27-09.53.26:473][  1]LogRenderer: Reallocating scene render targets to support 1280x792 Format 10 NumSamples 1 (Frame:1).
+[2023.02.27-09.53.27:239][ 61]LogSlate: Took 0.004011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.27-09.53.43:724][991]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart
+[2023.02.27-09.53.44:299][991]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.02.27-09.53.45:041][991]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.27-09.53.45:224][992]LogSlate: Took 0.003125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.27-09.53.48:155][282]LogSlate: Window 'Chaos_MasterCart' being destroyed
+[2023.02.27-09.53.51:219][628]LogSlate: Window 'Chaos_MasterCart' being destroyed
+[2023.02.27-09.53.59:359][600]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-09.53.59:364][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-09.53.59:366][600]PIE: New page: PIE session: VehicleAdvExampleMap (27 Feb 2023, 11:53:59)
+[2023.02.27-09.53.59:367][600]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.02.27-09.53.59:368][600]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.02.27-09.53.59:368][600]LogPlayLevel: Creating play world package: /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2023.02.27-09.53.59:396][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027808s)
+[2023.02.27-09.53.59:397][600]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2023.02.27-09.53.59:398][600]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2023.02.27-09.53.59:398][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.029239s)
+[2023.02.27-09.53.59:413][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.27-09.53.59:414][600]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.02.27-09.53.59:414][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-09.53.59:414][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-09.53.59:414][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-09.53.59:414][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-09.53.59:414][600]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-09.53.59:414][600]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-09.53.59:414][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-09.53.59:414][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-09.53.59:415][600]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-09.53.59:415][600]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-09.53.59:415][600]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-09.53.59:415][600]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-09.53.59:418][600]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-09.53.59:418][600]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-09.53.59:428][600]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.27-09.53.59:428][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-09.53.59:428][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-09.53.59:428][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-09.53.59:429][600]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-09.53.59:429][600]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-09.53.59:429][600]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-09.53.59:429][600]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-09.53.59:429][600]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-09.53.59:429][600]LogInit: FAudioDevice initialized.
+[2023.02.27-09.53.59:429][600]LogAudio: Display: Audio Device (ID: 2) registered with world 'VehicleAdvExampleMap'.
+[2023.02.27-09.53.59:453][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-09.53.59:454][600]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.02.27-09.53.59:458][600]LogWorld: Bringing World /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2023.02.27-10.53.59
+[2023.02.27-09.53.59:458][600]LogWorld: Bringing up level for play took: 0.004675
+[2023.02.27-09.53.59:459][600]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2023.02.27-09.53.59:461][600]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.02.27-09.53.59:463][600]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.02.27-09.53.59:466][600]PIE: Server logged in
+[2023.02.27-09.53.59:468][600]PIE: Play in editor total start time 0,105 seconds.
+[2023.02.27-09.53.59:470][600]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:011A
+[2023.02.27-09.53.59:470][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.53.59:470][600]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:0364
+[2023.02.27-09.53.59:470][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.53.59:472][600]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:011A
+[2023.02.27-09.53.59:472][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.53.59:472][600]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:0364
+[2023.02.27-09.53.59:472][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.53.59:472][600]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:011A
+[2023.02.27-09.53.59:472][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.53.59:473][600]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:0364
+[2023.02.27-09.53.59:473][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.53.59:473][600]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:011A
+[2023.02.27-09.53.59:473][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.53.59:473][600]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:0364
+[2023.02.27-09.53.59:473][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.53.59:509][601]LogRenderer: Reallocating scene render targets to support 1280x992 Format 10 NumSamples 1 (Frame:1).
+[2023.02.27-09.54.13:047][118]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:011A
+[2023.02.27-09.54.13:047][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:047][118]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:0364
+[2023.02.27-09.54.13:047][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:054][119]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:011A
+[2023.02.27-09.54.13:054][119]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:055][119]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:0364
+[2023.02.27-09.54.13:055][119]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:063][120]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:011A
+[2023.02.27-09.54.13:063][120]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:063][120]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:0364
+[2023.02.27-09.54.13:063][120]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:071][121]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:011A
+[2023.02.27-09.54.13:071][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:071][121]LogScript: Warning: Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial
+	Chaos_MasterCart_C /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap:PersistentLevel.Chaos_MasterCart_2
+	Function /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart_C:ExecuteUbergraph_Chaos_MasterCart:0364
+[2023.02.27-09.54.13:071][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:080][122]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:080][122]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:130][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:130][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:138][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:139][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:147][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:147][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:155][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:155][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:181][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:181][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:189][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:189][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:213][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:213][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:222][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:222][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:247][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:247][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:256][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:256][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:290][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:290][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:298][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:298][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:332][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:332][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:340][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:340][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:373][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:373][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:398][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:398][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:407][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:407][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:457][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:457][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:466][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:466][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:474][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:474][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:541][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:541][177]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:548][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:548][178]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:557][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:557][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:608][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:608][185]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:618][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:618][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:680][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:680][193]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:689][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:689][194]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:698][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:698][195]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:776][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:776][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.13:784][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.13:784][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:160][722]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:160][722]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:168][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:168][723]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:176][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:176][724]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:185][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:185][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:193][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:193][726]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:201][727]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:201][727]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:210][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:210][728]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:277][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:277][736]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:286][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:286][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:294][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:294][738]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:303][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:303][739]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:311][740]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:311][740]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:379][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:379][748]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:387][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:387][749]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:396][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:396][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:404][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:404][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:487][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:488][761]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:495][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:495][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:504][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:504][763]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:512][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:512][764]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:638][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:638][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:647][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:647][780]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:698][786]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:698][786]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:707][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:707][787]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:767][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:767][794]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:775][795]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:775][795]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:784][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:784][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:843][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:843][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:852][804]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:852][804]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:894][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:894][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:903][810]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:903][810]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:963][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:963][817]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.18:971][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.18:971][818]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.19:047][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.19:048][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:259][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:259][207]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:268][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:268][208]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:276][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:276][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:285][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:285][210]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:293][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:293][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:302][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:302][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:352][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:353][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:361][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:361][219]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:369][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:369][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:378][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:378][221]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:387][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:387][222]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:394][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:394][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:455][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:455][230]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:463][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:463][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:472][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:472][232]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:480][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:480][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:488][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:488][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:549][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:549][241]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:558][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:558][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:566][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:567][243]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:620][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:620][249]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:629][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:630][250]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:674][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:674][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.22:682][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Switch on EPhysicalSurface
+[2023.02.27-09.54.22:682][256]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_BreakWheelStatus_PhysMaterial". Blueprint:  Chaos_MasterCart Function:  Execute Ubergraph Chaos Master Cart Graph:  EventGraph Node:  Print String
+[2023.02.27-09.54.44:521][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-09.54.44:521][826]LogWorld: BeginTearingDown for /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2023.02.27-09.54.44:521][826]LogSlate: Window 'MyChaosVehicle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.27-09.54.44:524][826]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-09.54.44:525][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-09.54.44:531][826]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-09.54.44:535][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-09.54.44:554][826]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-09.54.44:554][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-09.54.44:555][826]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-09.54.44:574][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.02.27-09.54.44:673][827]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.02.27-09.54.56:519][205]LogSlate: Window 'Message Log' being destroyed
+[2023.02.27-09.54.56:523][205]LogSlate: Window 'Message Log' being destroyed
+[2023.02.27-09.58.18:720][175]LogSlate: Window 'Message Log' being destroyed
+[2023.02.27-09.58.18:724][175]LogSlate: Window 'Message Log' being destroyed
+[2023.02.27-10.00.50:561][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdv/Vehicle/Chaos_MasterCart" FILE="X:/Unreal_4_projects/MyChaosVehicle 4.27/Content/VehicleAdv/Vehicle/Chaos_MasterCart.uasset" SILENT=true
+[2023.02.27-10.00.50:616][955]LogSavePackage: Moving 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Chaos_MasterCart122836274402B1FC4CEEACADCE5B7ED6.tmp' to 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Content/VehicleAdv/Vehicle/Chaos_MasterCart.uasset'
+[2023.02.27-10.00.50:631][955]AssetCheck: New page: Asset Save: Chaos_MasterCart
+[2023.02.27-10.00.50:631][955]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdv/Vehicle/Chaos_MasterCart.Chaos_MasterCart
+[2023.02.27-10.00.51:455][ 52]BlueprintLog: New page: Compile Chaos_MasterCart
+[2023.02.27-10.00.51:505][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.02.27-10.00.53:814][310]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-10.00.53:817][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-10.00.53:819][310]PIE: New page: PIE session: VehicleAdvExampleMap (27 Feb 2023, 12:00:53)
+[2023.02.27-10.00.53:819][310]LogPlayLevel: Creating play world package: /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2023.02.27-10.00.53:898][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080157s)
+[2023.02.27-10.00.53:900][310]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2023.02.27-10.00.53:900][310]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2023.02.27-10.00.53:900][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Maps/VehicleAdvExampleMap.VehicleAdvExampleMap to /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap (0.081692s)
+[2023.02.27-10.00.53:919][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.27-10.00.53:920][310]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.27-10.00.53:920][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-10.00.53:920][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-10.00.53:920][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.27-10.00.53:920][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.27-10.00.53:920][310]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.27-10.00.53:920][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-10.00.53:920][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-10.00.53:920][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-10.00.53:921][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-10.00.53:921][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-10.00.53:921][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-10.00.53:921][310]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-10.00.53:924][310]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-10.00.53:924][310]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-10.00.53:936][310]LogAudioMixer: Display: Using Audio Device LG TV (NVIDIA High Definition Audio)
+[2023.02.27-10.00.53:936][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-10.00.53:936][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-10.00.53:936][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-10.00.53:936][310]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-10.00.53:936][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-10.00.53:936][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.27-10.00.53:938][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-10.00.53:938][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-10.00.53:938][310]LogInit: FAudioDevice initialized.
+[2023.02.27-10.00.53:938][310]LogAudio: Display: Audio Device (ID: 3) registered with world 'VehicleAdvExampleMap'.
+[2023.02.27-10.00.53:973][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-10.00.53:973][310]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2023.02.27-10.00.53:977][310]LogWorld: Bringing World /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2023.02.27-11.00.53
+[2023.02.27-10.00.53:978][310]LogWorld: Bringing up level for play took: 0.003567
+[2023.02.27-10.00.53:978][310]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2023.02.27-10.00.53:979][310]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.02.27-10.00.53:989][310]PIE: Server logged in
+[2023.02.27-10.00.53:991][310]PIE: Play in editor total start time 0,174 seconds.
+[2023.02.27-10.00.54:020][311]LogRenderer: Reallocating scene render targets to support 1280x1004 Format 10 NumSamples 1 (Frame:1).
+[2023.02.27-10.01.03:748][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-10.01.03:748][470]LogWorld: BeginTearingDown for /Game/Geometry/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2023.02.27-10.01.03:748][470]LogSlate: Window 'MyChaosVehicle Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.02.27-10.01.03:753][470]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-10.01.03:754][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-10.01.03:762][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-10.01.03:765][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-10.01.03:783][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-10.01.03:783][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-10.01.03:784][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-10.01.03:790][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.02.27-10.01.03:812][472]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.02.27-10.04.21:124][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.02.27-10.04.21:197][ 95]LogSavePackage: Moving 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/VehicleAdvExampleMap_Auto1020DB71744A7849DFB9E33909B5EE0C8.tmp' to 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Autosaves/Game/Geometry/Maps/VehicleAdvExampleMap_Auto1.umap'
+[2023.02.27-10.04.21:198][ 95]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Geometry/Maps/VehicleAdvExampleMap' took 0.094
+[2023.02.27-10.04.21:198][ 95]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2023.02.27-10.11.13:790][722]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/VehicleAdv/Particles/P_Smoke.P_Steam_Lit
+[2023.02.27-10.11.13:805][722]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2023.02.27-10.11.29:096][492]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle 4.27\Content\VehicleAdv\Particles\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2023.02.27-10.11.29:097][492]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle 4.27\Content\VehicleAdv\Particles\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2023.02.27-10.11.29:097][492]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle 4.27\Content\VehicleAdv\Particles\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2023.02.27-10.11.29:097][492]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle 4.27\Content\VehicleAdv\Particles\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2023.02.27-10.11.29:097][492]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle 4.27\Content\VehicleAdv\Particles\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2023.02.27-10.11.29:097][492]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle 4.27\Content\VehicleAdv\Particles\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2023.02.27-10.11.29:098][492]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle 4.27\Content\VehicleAdv\Particles\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_SubUV': Can't find file.
+[2023.02.27-10.11.29:098][492]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Smoke_SubUV.T_Smoke_SubUV Referenced by MaterialExpressionParticleSubUV_0
+[2023.02.27-10.11.29:098][492]LogLinker: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle 4.27\Content\VehicleAdv\Particles\M_smoke_subUV.uasset: Failed to load '/Game/StarterContent/Textures/T_Smoke_Tiled_D': Can't find file.
+[2023.02.27-10.11.29:098][492]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Smoke_Tiled_D.T_Smoke_Tiled_D Referenced by MaterialExpressionTextureSample_0
+[2023.02.27-10.11.29:099][492]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 92DCF73BC7186737B4C8B92F76A53FBA1DF1B8CD), compiling. 
+[2023.02.27-10.11.29:108][492]LogMaterial: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle 4.27\Content\VehicleAdv\Particles\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.27-10.11.29:108][492]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.27-10.11.29:108][492]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2023.02.27-10.11.29:115][492]LogMaterial: Display: Material /Game/VehicleAdv/Particles/M_smoke_subUV.M_smoke_subUV needed to have new flag set bUsedWithBeamTrails !
+[2023.02.27-10.11.29:116][492]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 46951601F120FA6358537DEB9D8E8B465C2DBB8E), compiling. 
+[2023.02.27-10.11.29:116][492]LogMaterial: Warning: [AssetLog] X:\Unreal_4_projects\MyChaosVehicle 4.27\Content\VehicleAdv\Particles\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.27-10.11.29:116][492]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2023.02.27-10.11.29:116][492]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2023.02.27-10.11.41:192][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdv/Particles/P_Smoke" FILE="X:/Unreal_4_projects/MyChaosVehicle 4.27/Content/VehicleAdv/Particles/P_Smoke.uasset" SILENT=true
+[2023.02.27-10.11.41:200][914]LogSavePackage: Moving 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/P_Smoke90D3205E48B8CD34B2983A9DEC1C2F12.tmp' to 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Content/VehicleAdv/Particles/P_Smoke.uasset'
+[2023.02.27-10.11.41:212][914]AssetCheck: New page: Asset Save: P_Steam_Lit
+[2023.02.27-10.11.41:212][914]LogContentValidation: Display: Validating ParticleSystem /Game/VehicleAdv/Particles/P_Smoke.P_Steam_Lit
+[2023.02.27-10.14.21:492][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.02.27-10.14.21:493][941]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Geometry/Maps/VehicleAdvExampleMap' took 0.056
+[2023.02.27-10.14.21:493][941]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdv/Particles/M_smoke_subUV] ([1] browsable assets)...
+[2023.02.27-10.14.21:504][941]OBJ SavePackage:     Rendered thumbnail for [Material /Game/VehicleAdv/Particles/M_smoke_subUV.M_smoke_subUV]
+[2023.02.27-10.14.21:504][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdv/Particles/M_smoke_subUV]
+[2023.02.27-10.14.21:509][941]LogSavePackage: Moving 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/M_smoke_subUV_Auto2EDA75DC34D294BBFE1BAF6BBB6A047A1.tmp' to 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/Autosaves/Game/VehicleAdv/Particles/M_smoke_subUV_Auto2.uasset'
+[2023.02.27-10.14.21:509][941]LogFileHelpers: Auto-saving content packages took 0.017
+[2023.02.27-10.22.39:202][914]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.27-10.22.39:202][914]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.27-10.23.35:711][565]AssetReimport: New page: Outstanding source content changes 12:23:35
+[2023.02.27-10.23.35:713][565]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 X:/Unreal_4_projects/MyChaosVehicle 4.27/Content/VehicleAdv/Particles/T_skidmark.png)
+[2023.02.27-10.23.35:899][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdv/Particles/T_skidmark" FILE="X:/Unreal_4_projects/MyChaosVehicle 4.27/Content/VehicleAdv/Particles/T_skidmark.uasset" SILENT=true
+[2023.02.27-10.23.35:910][566]LogSavePackage: Moving 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Saved/T_skidmark4B40494544E789E17767179BC1CC86CF.tmp' to 'X:/Unreal_4_projects/MyChaosVehicle 4.27/Content/VehicleAdv/Particles/T_skidmark.uasset'
+[2023.02.27-10.23.35:953][567]AssetCheck: New page: Asset Save: T_skidmark
+[2023.02.27-10.23.35:953][567]LogContentValidation: Display: Validating Texture2D /Game/VehicleAdv/Particles/T_skidmark.T_skidmark
+[2023.02.27-10.23.38:925][916]AssetReimport: Importing new asset /Game/VehicleAdv/Particles/T_skidmark.
+[2023.02.27-10.23.46:156][773]LogCascade: Quitting Cascade. FXSystem=0x0000019849BD5090
+[2023.02.27-10.23.46:160][773]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-10.23.46:160][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-10.24.09:790][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.02.27-10.24.11:803][ 75]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.27-10.24.11:951][ 75]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-10.24.11:951][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-10.24.11:982][ 75]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/VehicleAdv/Particles/M_smoke_subUV.M_smoke_subUV
+[2023.02.27-10.24.13:110][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.02.27-10.24.13:141][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.02.27-10.24.13:152][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.02.27-10.24.22:374][112]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2023.02.27-10.24.22:382][112]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2023.02.27-10.24.38:034][991]LogContentBrowser: Attempting asset rename: NewParticleSystem -> P_Skidmark
+[2023.02.27-10.24.38:036][991]LogContentBrowser: End creating deferred item NewParticleSystem
+[2023.02.27-10.24.48:244][186]LogEditorViewport: Clicking on Actor (LMB): Chaos_MasterCart_C (Chaos_MasterCart)
